@@ -1,6 +1,6 @@
-# jacob/4
+# jacob/5
 
-This is the jacob/4 branch for testing pnpm functionality and configurations.
+This is the jacob/5 branch for testing pnpm functionality and configurations.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This branch contains experiments and testing related to pnpm package manager int
 
 ## Purpose
 
-The jacob/4 branch is used to:
+The jacob/5 branch is used to:
 - Test pnpm-specific configurations
 - Validate package management workflows
 - Experiment with monorepo setups and pnpm workspaces
