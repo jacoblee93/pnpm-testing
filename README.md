@@ -1,6 +1,6 @@
-# jacob/9
+# jacob/11
 
-This is the jacob/9 branch for testing pnpm functionality and configurations.
+This is the jacob/11 branch for testing pnpm functionality and configurations.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This branch contains experiments and testing related to pnpm package manager int
 
 ## Purpose
 
-The jacob/9 branch is used to:
+The jacob/11 branch is used to:
 - Test pnpm-specific configurations
 - Validate package management workflows
 - Experiment with monorepo setups and pnpm workspaces
