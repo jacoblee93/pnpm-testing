@@ -1,1 +1,18 @@
+<<<<<<< HEAD
+# jacob/8
+
+This is the jacob/8 branch for testing pnpm functionality and configurations.
+
+## Overview
+
+This branch contains experiments and testing related to pnpm package manager integration and behavior.
+
+## Purpose
+
+The jacob/8 branch is used to:
+- Test pnpm-specific configurations
+- Validate package management workflows
+- Experiment with monorepo setups and pnpm workspaces
+=======
 jacob/6
+>>>>>>> 616c93afd38fe13e18432cc166ad60db08dd5670
