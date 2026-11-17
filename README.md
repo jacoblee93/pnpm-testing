@@ -12,3 +12,4 @@ The jacob/9 branch is used to:
 - Test pnpm-specific configurations
 - Validate package management workflows
 - Experiment with monorepo setups and pnpm workspaces
+- Compare pnpm install behavior across lockfile versions
