@@ -12,3 +12,7 @@ The jacob/10 branch is used to:
 - Test pnpm-specific configurations
 - Validate package management workflows
 - Experiment with monorepo setups and pnpm workspaces
+
+## Status
+
+This branch is a work in progress.
