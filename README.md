@@ -16,3 +16,7 @@ The jacob/10 branch is used to:
 ## Status
 
 This branch is a work in progress.
+
+## Usage
+
+Run `pnpm install` to install dependencies.
